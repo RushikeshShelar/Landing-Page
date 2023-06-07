@@ -1,7 +1,7 @@
 
 # Landing Page
 
-Welcome to the Landing Page repository! This project showcases a modern and visually appealing landing page template that can be used to create an impressive online presence for your product or service.
+Welcome to the Landing Page repository! This project showcases a modern and visually appealing landing page template that can be used to create an impressive online presence for your product or service. Visit the LAnding page [here](https://rushikeshshelar.github.io/Landing-Page/).
 ## Tech Stack
 
 - HTML
